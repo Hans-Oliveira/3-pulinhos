@@ -1,1 +1,15 @@
-<p>components works!</p>
+<ul>
+    <li *ngFor="let gets of get">
+        <div class="image-container">
+          <img class="round" [src]="gets.avatar">
+
+        </div>
+        <div class="name-container"> 
+            <span class="firstName">{{gets.first_name}}</span>
+            <span class="lastName">{{gets.last_name}}</span>    
+        </div> 
+        <p class="email">{{gets.email}}</p>
+        <br><br>
+        <a href="#" class="button">Detalhes</a>
+    </li>
+</ul>

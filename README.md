@@ -1,11 +1,12 @@
 # 3-pulinhos
-<h1>Desafio Angular + API 3 Pulinhos</h1>
+## Desafio Angular + API 3 Pulinhos
 <br>
 <p>Foi implementado neste desafio, o consumo de uma API RESTFul e uma manipulação do DOM utilizando Angular v13. Tabém foi utilizado TypeScript e SASS</p>
 <br>
 <br>
-<h4>Segue desafio listado</h4>
-<p>
+
+## Segue desafio listado
+
 O desafio desse projeto é desenvolver uma aplicação em Angular 2 ou qualquer versão
 superior (ex: 12,13…). Consumindo uma API Restful.
 Para desenvolvimento do teste será utilizado uma API para testes já pronta não precisando
@@ -28,8 +29,9 @@ Entrega
 Ao final do projeto, crie um repositório no github e faça commit da sua aplicação
 com instruções no README.MD para execução do projeto.
 Requisitos:
-- Utilizar Angular 2+ ou versão superior;
-- Uso de TypeScript no Angular;
-- Utilizar SCSS ou SASS para estilização das páginas.
-- Uso do git para controle de versionamento e repositório GitHub
-</p>
+<ul>
+    <li>- Utilizar Angular 2+ ou versão superior;</li>
+    <li>- Uso de TypeScript no Angular;</li>
+    <li>- Utilizar SCSS ou SASS para estilização das páginas.</li>
+    <li>- Uso do git para controle de versionamento e repositório GitHub</li>
+</ul>
