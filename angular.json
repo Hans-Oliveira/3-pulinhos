@@ -24,7 +24,7 @@
             "tsConfig": "tsconfig.app.json",
             "inlineStyleLanguage": "sass",
             "assets": [
-              "https://ss3.4sqi.net/img/categories_v2/shops/food_liquor_88.png",
+              "src/favicon",
               "src/assets"
             ],
             "styles": [
@@ -92,7 +92,7 @@
             "karmaConfig": "karma.conf.js",
             "inlineStyleLanguage": "sass",
             "assets": [
-              "https://ss3.4sqi.net/img/categories_v2/shops/food_liquor_88.png",
+              "src/favicon",
               "src/assets"
             ],
             "styles": [

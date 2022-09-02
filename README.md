@@ -30,8 +30,8 @@ Ao final do projeto, crie um repositório no github e faça commit da sua aplica
 com instruções no README.MD para execução do projeto.
 Requisitos:
 <ul>
-    <li>- Utilizar Angular 2+ ou versão superior;</li>
-    <li>- Uso de TypeScript no Angular;</li>
-    <li>- Utilizar SCSS ou SASS para estilização das páginas.</li>
-    <li>- Uso do git para controle de versionamento e repositório GitHub</li>
+    <li> Utilizar Angular 2+ ou versão superior;</li>
+    <li> Uso de TypeScript no Angular;</li>
+    <li> Utilizar SCSS ou SASS para estilização das páginas.</li>
+    <li> Uso do git para controle de versionamento e repositório GitHub</li>
 </ul>
